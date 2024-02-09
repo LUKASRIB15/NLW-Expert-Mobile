@@ -45,8 +45,14 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 <br/>
 
-### Página Principal
+### Tela: Faça seu pedido
+![image](https://github.com/LUKASRIB15/NLW-Expert-Mobile/assets/100320271/ab0782af-8c95-4a02-b1e3-bba3bf004cb3)
 
+### Tela: Detalhe do produto
+![image](https://github.com/LUKASRIB15/NLW-Expert-Mobile/assets/100320271/a277ac94-ded0-45fc-bd30-82c78da97e0a)
+
+### Tela: Carrinho
+![image](https://github.com/LUKASRIB15/NLW-Expert-Mobile/assets/100320271/f085e0d2-6fda-4ac6-bac6-17ed4b8feb37)
 
 # 👨‍💻 Usando Jest 
 
